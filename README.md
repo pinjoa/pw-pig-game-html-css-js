@@ -2,6 +2,8 @@
 
 Web programming - PigGame game challenge
 
+![PigGame winner](./pig-game-winner_1280x640.png)
+
 ## Flow chart
 
 ![PigGame flow chart](./pig-game-flowchart.png)
